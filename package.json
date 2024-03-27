@@ -1,7 +1,7 @@
 {
   "name": "helperd",
   "version": "0.0.1",
-  "description": "Desktop application for Transliteration, Password Generation and Base64 Encoding and Decoding that can come in handy under the arm",
+  "description": "Desktop application for Transliteration, Password Generation and Base64 Encoding and Decoding",
   "scripts": {
     "start": "electron index.js",
     "build": "electron-builder"
