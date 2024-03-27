@@ -1,0 +1,9 @@
+{
+  "productName": "Helper",
+  "directories": {
+    "output": "bin"
+  },
+  "win": {
+    "target": "nsis"
+  }
+}
