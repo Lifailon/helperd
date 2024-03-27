@@ -1,6 +1,6 @@
 # Helper Desktop
 
-Desktop application for Transliteration, Password Generation and Base64 Encoding and Decoding.
+Desktop application for Transliteration, Password Generation and Base64 Encoding and Decoding that can come in handy under the arm.
 
 ![Image alt](https://github.com/Lifailon/helperd/blob/rsa/interface.jpg)
 

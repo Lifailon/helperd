@@ -4,8 +4,7 @@ app.on('ready', () => {
     mainWindow = new BrowserWindow({
         width: 1000,
         height: 800,
-        title: 'Helper',
-        backgroundColor: '#333333',
+        title: 'Helper Desktop',
         fullscreen: false,
         resizable: true,
         frame: true
