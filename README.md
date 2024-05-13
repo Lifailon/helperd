@@ -1,4 +1,4 @@
-# Helper Desktop
+# <img src="https://github.com/Lifailon/helperd/blob/rsa/helperd-logo.png" width="25" /> Helper Desktop
 
 Desktop application for Transliteration, Password Generation and Base64 Encoding and Decoding.
 
