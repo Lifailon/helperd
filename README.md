@@ -22,3 +22,9 @@ npm start
 ```shell
 npm run build
 ```
+
+### Android
+
+[Download](https://www.webintoapp.com/store/338298) apk version.
+
+<a href="https://github.com/Lifailon/helperd/blob/rsa/screenshot.png"><img src="https://github.com/Lifailon/helperd/blob/rsa/screenshot.png" width="400"/></a>
